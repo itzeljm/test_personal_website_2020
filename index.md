@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Itzel's Page
 
 You can use the [editor on GitHub](https://github.com/itzeljm/test_personal_website_2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
